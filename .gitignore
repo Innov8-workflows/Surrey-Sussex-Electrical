@@ -7,3 +7,5 @@
 !.github/**
 !index.html
 !og-home.jpg
+!_site/
+!_site/**
